@@ -1,1 +1,43 @@
-# README.md
+# Hi 👋 I'm Abhinandan (Abhishek Yadav)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekyadav-96&show_icons=true&theme=default)](https://github.com/abhishekyadav-96)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekyadav-96&layout=compact)](https://github.com/abhishekyadav-96)
+
+Full-stack MERN developer building user-focused web applications. I specialize in React for frontend, Node.js/Express for backend, and MongoDB for data persistence. I enjoy producing clean, maintainable code and shipping features end-to-end.
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Tools:** Git, GitHub, VS Code, Postman, Vercel / Heroku
+
+---
+
+## 📌 Selected Projects
+- **MERN Auth App** — Authentication system with JWT, role-based access. (Tech: React, Node.js, Express, MongoDB) — Repo: https://github.com/abhishekyadav-96/PROJECT-MERN-AUTH (replace with actual link)
+- **E‑Commerce Website** — Product catalog, cart, checkout flow, order history. (Tech: React, Stripe, Node.js, MongoDB) — Repo: https://github.com/abhishekyadav-96/PROJECT-ECOM (replace with actual link)
+- **REST API** — Production-ready REST API with validation, pagination, and testing. (Tech: Node.js, Express, MongoDB) — Repo: https://github.com/abhishekyadav-96/PROJECT-API (replace with actual link)
+
+For each project, consider adding: a short demo GIF, live demo link, key challenges, and your role/contribution.
+
+---
+
+## 🚀 Highlights
+- Built and deployed full-stack apps end-to-end
+- Familiar with authentication, payments, and RESTful design
+- Comfortable with collaborating via Git/GitHub and code reviews
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/abhinandan-yadav-644006378
+- Email: mailto:abhinan888@gmail.com
+
+---
+
+If you want, I can:
+- Replace the placeholder project repo links with your real repo URLs
+- Add demo GIFs/screenshots and live demo links
+- Generate badges for specific repos or certifications
