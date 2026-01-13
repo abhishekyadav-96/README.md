@@ -15,10 +15,13 @@ Full-stack MERN developer building user-focused web applications. I specialize i
 
 ---
 
+
 ## 📌 Selected Projects
-- **MERN Auth App** — Authentication system with JWT, role-based access. (Tech: React, Node.js, Express, MongoDB) — Repo: https://github.com/abhishekyadav-96/PROJECT-MERN-AUTH (replace with actual link)
-- **E‑Commerce Website** — Product catalog, cart, checkout flow, order history. (Tech: React, Stripe, Node.js, MongoDB) — Repo: https://github.com/abhishekyadav-96/PROJECT-ECOM (replace with actual link)
-- **REST API** — Production-ready REST API with validation, pagination, and testing. (Tech: Node.js, Express, MongoDB) — Repo: https://github.com/abhishekyadav-96/PROJECT-API (replace with actual link)
+- **Auth / Next.js example** — Authentication example (Next.js). Repo: https://github.com/abhishekyadav-96/next.js-with-auth-
+- **Twitter Clone (React)** — Social feed clone built with React. Repo: https://github.com/abhishekyadav-96/twitter-clone
+- **Django REST API (example)** — API project demonstrating REST endpoints. Repo: https://github.com/abhishekyadav-96/django-api-project
+
+_If any of these links are incorrect, tell me which repo should map to each project and I'll update them._
 
 For each project, consider adding: a short demo GIF, live demo link, key challenges, and your role/contribution.
 
